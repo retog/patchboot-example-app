@@ -1,0 +1,10 @@
+{
+  "name": "patchboot-example-app",
+  "version": "1.0.0",
+  "scripts": {
+    "deploy-app": "patchboot-install FeedApp.js 'Feed App' 'An app deployed with patchboot-install'"
+  },
+  "devDependencies": {
+    "patchboot": "0.0.1"
+  }
+}
